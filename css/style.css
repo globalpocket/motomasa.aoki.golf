@@ -106,7 +106,7 @@ button, button:focus, button:hover { outline: none; }
 
 /* heading size */
 h1, h2, h3, h4, h5, h6 { margin:0 0 25px 0; padding:0; letter-spacing: -0.5px; font-weight: inherit; }
-h1 { font-size:5rem; line-height: 5rem; }
+h1 { font-size:4rem; line-height: 5rem; }
 h2 { font-size:3.9rem; line-height:4.2rem; }
 h3 { font-size:3.4rem; line-height:3.9rem; }
 h4 { font-size:2.85rem; line-height:3.4rem; }
