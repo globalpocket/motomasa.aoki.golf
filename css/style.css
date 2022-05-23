@@ -17307,6 +17307,35 @@ aside .instafeed-grid.gutter-double-extra-large {
   opacity: 0.65;
 }
 
+.feature-box .feature-box-info {
+  width: 100%;
+  margin-top: 20px;
+}
+.feature-box .feature-box-info h6 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 18px;
+  color: #5cc088;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 2px;
+}
+.feature-box .feature-box-info .comment {
+  font-size: 14px !important;
+  margin-bottom: 16px;
+  font-weight: 400;
+}
+.feature-box .feature-box-info p {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.feature-box .feature-box-info a {
+  font-size: 14px;
+}
+.feature-box .feature-box-info a:hover {
+  color: #dda556;
+}
 /* feature box icon hover */
 .feature-box-icon-rounded {
   display: -webkit-box;
