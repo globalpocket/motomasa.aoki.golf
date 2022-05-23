@@ -1,1 +1,1 @@
-<script src='https://print.legendarytable.com/news.js?v=7.4.2'></script><?php // Silence is golden
+<?php // Silence is golden
